@@ -1,0 +1,33 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*,*:after,*:before{
+    box-sizing: inherit;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+h1{
+    font-size: 4.2rem;
+    padding: 0;
+}
+
+a{
+    list-style:none;
+}
+
+.contenedor{
+    width:1000px;
+    margin: 0 auto;
+    max-width: 95%;
+}
+
+
+img{
+    max-width: 100%;
+    display: block;
+}

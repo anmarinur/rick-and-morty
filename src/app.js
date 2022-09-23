@@ -1,10 +1,12 @@
 import React from "react";
 import './sass/index.scss';
+import Header from './components/encabezado';
 
 
 export default function App(){
 
     return(<div>
-        <h1>Rick & Morthy</h1>
+        <Header />
+        
     </div>)
 }
